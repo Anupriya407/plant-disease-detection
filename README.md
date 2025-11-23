@@ -22,20 +22,20 @@ streamlit run app/streamlit_app.py
 
 (or use the sample image provided)
 
-📂 Project Structure
 plant-disease-detection/
 ├── app/
-│   └── streamlit_app.py
+│ └── streamlit_app.py
 ├── data/
 ├── models/
-│   └── best_model.pth
+│ └── best_model.pth
 ├── notebooks/
 ├── results/
 ├── src/
-│   ├── infer.py
-│   ├── gradcam.py
-│   └── split_dataset.py
+│ ├── infer.py
+│ ├── gradcam.py
+│ └── split_dataset.py
 └── requirements.txt
+
 
 ✨ Features
 
