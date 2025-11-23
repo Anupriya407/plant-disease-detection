@@ -1,0 +1,105 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 283.0
+  },
+  "Pepper__bell___healthy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 409.0
+  },
+  "Potato___Early_blight": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 273.0
+  },
+  "Potato___Late_blight": {
+    "precision": 1.0,
+    "recall": 0.9927536231884058,
+    "f1-score": 0.9963636363636363,
+    "support": 276.0
+  },
+  "Potato___healthy": {
+    "precision": 0.9782608695652174,
+    "recall": 1.0,
+    "f1-score": 0.989010989010989,
+    "support": 45.0
+  },
+  "Tomato_Bacterial_spot": {
+    "precision": 0.9786535303776683,
+    "recall": 1.0,
+    "f1-score": 0.9892116182572614,
+    "support": 596.0
+  },
+  "Tomato_Early_blight": {
+    "precision": 0.9927536231884058,
+    "recall": 0.9963636363636363,
+    "f1-score": 0.9945553539019963,
+    "support": 275.0
+  },
+  "Tomato_Late_blight": {
+    "precision": 0.9924812030075187,
+    "recall": 0.998109640831758,
+    "f1-score": 0.9952874646559849,
+    "support": 529.0
+  },
+  "Tomato_Leaf_Mold": {
+    "precision": 1.0,
+    "recall": 0.9848484848484849,
+    "f1-score": 0.9923664122137404,
+    "support": 264.0
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "precision": 0.9939516129032258,
+    "recall": 0.9919517102615694,
+    "f1-score": 0.9929506545820745,
+    "support": 497.0
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "precision": 0.9892703862660944,
+    "recall": 0.9978354978354979,
+    "f1-score": 0.9935344827586207,
+    "support": 462.0
+  },
+  "Tomato__Target_Spot": {
+    "precision": 1.0,
+    "recall": 0.9898477157360406,
+    "f1-score": 0.9948979591836735,
+    "support": 394.0
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "precision": 1.0,
+    "recall": 0.984375,
+    "f1-score": 0.9921259842519685,
+    "support": 896.0
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "precision": 0.9903846153846154,
+    "recall": 1.0,
+    "f1-score": 0.9951690821256038,
+    "support": 103.0
+  },
+  "Tomato_healthy": {
+    "precision": 0.9954954954954955,
+    "recall": 1.0,
+    "f1-score": 0.9977426636568849,
+    "support": 442.0
+  },
+  "accuracy": 0.9946030640668524,
+  "macro avg": {
+    "precision": 0.9940834224125493,
+    "recall": 0.9957390206043595,
+    "f1-score": 0.994881086730829,
+    "support": 5744.0
+  },
+  "weighted avg": {
+    "precision": 0.9946700105265978,
+    "recall": 0.9946030640668524,
+    "f1-score": 0.9946057213681866,
+    "support": 5744.0
+  }
+}
